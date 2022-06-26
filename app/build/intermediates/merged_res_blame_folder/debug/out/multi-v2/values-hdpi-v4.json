@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dostel.managerapp1.app-mergeDebugResources-16:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-3\\529e797493c89b9dbdf43262700e532f\\transformed\\appcompat-1.0.2\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

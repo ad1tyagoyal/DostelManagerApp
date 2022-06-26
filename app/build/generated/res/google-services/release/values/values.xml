@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">359527308504-lj02ls1fbs92esm6finhnp55a2cdsi1g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dostelmanager.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">359527308504</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsQhDzWlxgmzrI5TYDDm20m4y9_LPc9nM</string>
+    <string name="google_app_id" translatable="false">1:359527308504:android:c93ad08d24e05f57430bad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsQhDzWlxgmzrI5TYDDm20m4y9_LPc9nM</string>
+    <string name="google_storage_bucket" translatable="false">dostelmanager.appspot.com</string>
+    <string name="project_id" translatable="false">dostelmanager</string>
+</resources>

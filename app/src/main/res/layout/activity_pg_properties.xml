@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".AddRoomActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingRight="10dp"
+            android:paddingLeft="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    app:srcCompat="@drawable/ic_home" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingStart="10dp"
+                        android:text="PG Name*"
+                        android:textColor="#3D5AFE"
+                        android:textSize="15sp" />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:backgroundTint="#06B1B1"
+                        android:elevation="2dp"
+                        android:padding="2dp"
+                        app:cardCornerRadius="5dp">
+
+
+                        <EditText
+                            android:id="@+id/edit_text_pg_name"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_margin="2dp"
+                            android:background="#FFFFFF"
+                            android:inputType="textPersonName"
+                            android:padding="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    app:srcCompat="@drawable/ic_mail" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingStart="10dp"
+                        android:text="PG Email*"
+                        android:textColor="#3D5AFE"
+                        android:textSize="15sp" />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="#FFFFFF"
+                        android:backgroundTint="#06B1B1"
+                        android:elevation="2dp"
+                        android:padding="2dp"
+                        app:cardCornerRadius="5dp">
+
+
+                        <EditText
+                            android:id="@+id/edit_text_pg_email"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_margin="2dp"
+                            android:background="#FFFFFF"
+                            android:inputType="textPersonName"
+                            android:padding="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="--- Address details ---"
+                android:textAlignment="center"
+                android:textColor="#3D5AFE" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    app:srcCompat="@drawable/ic_pin" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:backgroundTint="#06B1B1"
+                    android:elevation="2dp"
+                    android:padding="4dp"
+                    app:cardCornerRadius="5dp">
+
+
+                    <EditText
+                        android:id="@+id/edit_text_address_line1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="2dp"
+                        android:background="#FFFFFF"
+                        android:hint="Address line 1*"
+                        android:inputType="text"
+                        android:padding="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                        android:textColor="#000000"
+                        android:textSize="20sp" />
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    app:srcCompat="@drawable/ic_pin" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:backgroundTint="#06B1B1"
+                    android:elevation="2dp"
+                    android:padding="4dp"
+                    app:cardCornerRadius="5dp">
+
+
+                    <EditText
+                        android:id="@+id/edit_text_address_line2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="2dp"
+                        android:background="#FFFFFF"
+                        android:hint="Address line 2"
+                        android:inputType="textPersonName"
+                        android:padding="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                        android:textColor="#000000"
+                        android:textSize="20sp" />
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:layout_weight="2">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="10dp"
+                        app:srcCompat="@drawable/ic_pin" />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:backgroundTint="#06B1B1"
+                        android:elevation="2dp"
+                        android:padding="4dp"
+                        app:cardCornerRadius="5dp">
+
+
+                        <EditText
+                            android:id="@+id/edit_text_city"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_margin="2dp"
+                            android:background="#FFFFFF"
+                            android:hint="City*"
+                            android:inputType="textPersonName"
+                            android:padding="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="10dp"
+                        app:srcCompat="@drawable/ic_pin" />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:backgroundTint="#06B1B1"
+                        android:elevation="2dp"
+                        android:padding="4dp"
+                        app:cardCornerRadius="5dp">
+
+
+                        <EditText
+                            android:id="@+id/edit_text_state"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_margin="2dp"
+                            android:background="#FFFFFF"
+                            android:hint="State*"
+                            android:inputType="textPersonName"
+                            android:padding="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:layout_weight="2">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="10dp"
+                        app:srcCompat="@drawable/ic_pin" />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:backgroundTint="#06B1B1"
+                        android:elevation="2dp"
+                        android:padding="4dp"
+                        app:cardCornerRadius="5dp">
+
+
+                        <EditText
+                            android:id="@+id/edit_text_police_station"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_margin="2dp"
+                            android:background="#FFFFFF"
+                            android:hint="Police Station"
+                            android:inputType="textPersonName"
+                            android:padding="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="10dp"
+                        app:srcCompat="@drawable/ic_pin" />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:backgroundTint="#06B1B1"
+                        android:elevation="2dp"
+                        android:padding="4dp"
+                        app:cardCornerRadius="5dp">
+
+
+                        <EditText
+                            android:id="@+id/edit_text_pin_code"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_margin="2dp"
+                            android:background="#FFFFFF"
+                            android:hint="PIN Code*"
+                            android:inputType="number"
+                            android:padding="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    app:srcCompat="@drawable/ic_pin" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:backgroundTint="#06B1B1"
+                    android:elevation="2dp"
+                    android:padding="4dp"
+                    app:cardCornerRadius="5dp">
+
+
+                    <EditText
+                        android:id="@+id/edit_text_nearest_landmark"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="2dp"
+                        android:background="#FFFFFF"
+                        android:hint="Nearest Landmark*"
+                        android:inputType="textPersonName"
+                        android:padding="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                        android:textColor="#000000"
+                        android:textSize="20sp" />
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/buttonSubmitPgDetails"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Submit Details"
+                android:layout_gravity="center_horizontal"
+                android:textAlignment="center"
+                android:layout_marginStart="@dimen/button_horizontal_margin"
+                android:layout_marginEnd="@dimen/button_horizontal_margin"
+                android:backgroundTint="#ff9800" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

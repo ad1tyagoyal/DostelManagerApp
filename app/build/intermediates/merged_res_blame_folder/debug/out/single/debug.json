@@ -1,0 +1,978 @@
+[
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxxhdpi_ic_login_hero.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxxhdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_rupee_white.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/rupee_white.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_green_add.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/green_add.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_add_single_room_popup.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/add_single_room_popup.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_share.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_share.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_back_img.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_back_img.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_pay.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/pay.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxhdpi_ic_login_hero.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxhdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_pass_book.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_pass_book.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_complaints_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/complaints_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_passbook.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_passbook.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_complaint.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_complaint.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_interface1.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/interface1.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_home.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_home.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_fragment_four_cards_final.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/fragment_four_cards_final.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_cutlery.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/cutlery.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxhdpi_ic_image_personal_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxhdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_button_background_blue.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/button_background_blue.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_dish.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_dish.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_shield_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/shield_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_food_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/food_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_details.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_menulast.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/menulast.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_add_dues.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_add_dues.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-hdpi_ic_login_hero.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-hdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_personal_details.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_personal_details.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_add.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/add.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_chat_messages.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/chat_messages.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_room_type_popup.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/room_type_popup.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xhdpi_ic_image_other_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xhdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activtiy_register.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activtiy_register.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_tenant_complaint.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_tenant_complaint.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_tenant_document_upload_card_view.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/tenant_document_upload_card_view.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-mdpi_ic_image_personal_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-mdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_hostel_bg.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/hostel_bg.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxxhdpi_ic_image_pg_properties.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxxhdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_tenant_add_success_popup.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/tenant_add_success_popup.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_offers_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/offers_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_edit_color.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/edit_color.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_other_details.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_other_details.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_upload.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/upload.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_checkbackground.jpeg.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/checkbackground.jpeg"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_calculations.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_calculations.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_menulast.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/menulast.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_interface1.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/interface1.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-hdpi_ic_image_terms_of_service.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-hdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-anydpi-v24_ic_image_personal_details.xml.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-anydpi-v24/ic_image_personal_details.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_edit_color.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/edit_color.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_tenant_log_in.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_tenant_log_in.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_complaint3.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/complaint3.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_shield.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/shield.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_location.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_location.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxxhdpi_ic_image_terms_of_service.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxxhdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_passbook.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_passbook.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_google_plus.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_google_plus.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_income_list_item.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/income_list_item.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_phone.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/phone.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_accounts_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/accounts_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/anim_fadout.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/anim/fadout.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_back_img.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_back_img.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_tenant_detail.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/tenant_detail.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_food_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/food_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_location.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_phone_black.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/phone_black.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-mdpi_ic_image_pg_properties.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-mdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_complaint2.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/complaint2.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_backbutton2.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_backbutton2.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_complaint.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_complaint.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_sad.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxhdpi_ic_image_terms_of_service.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxhdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_attendance_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/attendance_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_roomfinal.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_roomfinal.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_chat_messages.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/chat_messages.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_dwnld_green.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/dwnld_green.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_complaint3.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/complaint3.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_share.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/share.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_back_button.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_back_button.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_clock_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/clock_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_upload.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/upload.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_rupee_white.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/rupee_white.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_input_box.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/input_box.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_graffiti.jpg.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/graffiti.jpg"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_attendance_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/attendance_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_side_bg.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_side_bg.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_tenant_personal_detail.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/tenant_personal_detail.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_pin.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_pin.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_accounts_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/accounts_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_offers_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/offers_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xhdpi_ic_image_terms_of_service.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xhdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_complaint.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/complaint.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/anim_slide_in_bottom.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_escalator.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/escalator.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_dish.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_dish.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_bed.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/bed.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_green_gradient.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/green_gradient.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_che.jpeg.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/che.jpeg"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_share.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_notebook.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/notebook.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_polygonhouse.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_polygonhouse.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_calculations.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_calculations.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_firebase_lockup_400.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/firebase_lockup_400.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-anydpi-v24_ic_login_hero.xml.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-anydpi-v24/ic_login_hero.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_phone_black.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/phone_black.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activtiy_phone_auth.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activtiy_phone_auth.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_che.jpeg.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/che.jpeg"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_roomfinal.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_roomfinal.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_add.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/add.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_input_box_small.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/input_box_small.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_phone.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/phone.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-anydpi-v24_ic_image_other_details.xml.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-anydpi-v24/ic_image_other_details.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xhdpi_ic_image_pg_properties.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xhdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_gradient.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/gradient.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_home.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xhdpi_ic_login_hero.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xhdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxhdpi_ic_image_pg_properties.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxhdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xhdpi_ic_image_personal_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xhdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_bed.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/bed.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_pg_list_item.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/pg_list_item.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_cloud_refresh.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/cloud_refresh.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_friend_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/friend_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_tick.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/tick.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_bed_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/bed_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_dwnld_green.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/dwnld_green.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_checkbackground.jpeg.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/checkbackground.jpeg"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_complaint.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/complaint.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_bed_colour2.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/bed_colour2.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-mdpi_ic_image_other_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-mdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_input_box_small.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/input_box_small.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_no_phone.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/no_phone.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_cutlery.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/cutlery.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_sad.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_sad.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_pin.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_pin.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_rooms.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/rooms.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-ldpi_ic_image_other_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-ldpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_details.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-anydpi-v24_ic_image_pg_properties.xml.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-anydpi-v24/ic_image_pg_properties.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_red_gradient.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/red_gradient.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_host_a_friend_popup.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/host_a_friend_popup.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/anim_fadein.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/anim/fadein.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_hostel.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_hostel.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_bed_colour1.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/bed_colour1.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/anim_slide_out_bottom.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_hostel_bg.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/hostel_bg.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_white_back_arrow.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/white_back_arrow.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_room_list_item.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/room_list_item.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-hdpi_ic_image_pg_properties.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-hdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_google_plus.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_google_plus.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_clock_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/clock_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-ldpi_ic_image_terms_of_service.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-ldpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_user_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/user_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_green_add.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/green_add.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxhdpi_ic_image_other_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxhdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_red_bg.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/red_bg.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_rent.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_rent.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_user_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/user_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_bed_colour2.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/bed_colour2.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_multi_room.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_multi_room.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-mdpi_ic_image_terms_of_service.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-mdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_escalator.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/escalator.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-hdpi_ic_image_personal_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-hdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_left_arrow.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/left_arrow.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_bed_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/bed_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_image.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/image.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_rupee.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/rupee.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_tenant.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_tenant.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_mail.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_polygonhouse.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_polygonhouse.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_left_arrow.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/left_arrow.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_graffiti.jpg.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/graffiti.jpg"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_edit.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/edit.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_cloud_refresh.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/cloud_refresh.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxxhdpi_ic_image_personal_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxxhdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_gradient.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/gradient.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-ldpi_ic_image_personal_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-ldpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_pay.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/pay.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_menu.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_menu.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_back_button.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_back_button.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-anydpi-v24_ic_image_terms_of_service.xml.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-anydpi-v24/ic_image_terms_of_service.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_notebook.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/notebook.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_white_back_arrow.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/white_back_arrow.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_hostel.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_hostel.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_firebase_lockup_400.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/firebase_lockup_400.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_play.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/play.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_room.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_room.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_menufinal.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_menufinal.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_menu.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_menufinal.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_menufinal.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_friend_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/friend_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_pg_properties.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_pg_properties.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_complaint2.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/complaint2.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_side_bg.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_side_bg.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_edit.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/edit.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-mdpi_ic_login_hero.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-mdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_home.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxxhdpi_ic_image_other_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxxhdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_tick.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/tick.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_input_box.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/input_box.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_bed_colour1.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/bed_colour1.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_facebook.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-hdpi_ic_image_other_details.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-hdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_share.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/share.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_button_background_blue.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/button_background_blue.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_pg_details.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_pg_details.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_rent.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_rent.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_backbutton2.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_backbutton2.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_four_cards.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_four_cards.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_activity_terms_of_service.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/activity_terms_of_service.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_facebook.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_facebook.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_ic_mail.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/ic_mail.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-ldpi_ic_image_pg_properties.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-ldpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_rooms.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/rooms.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_no_phone.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/no_phone.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_ic_tenant.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/ic_tenant.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_select_pg.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/select_pg.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_shield_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/shield_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-ldpi_ic_login_hero.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-ldpi/ic_login_hero.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_image.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/image.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_complaints_colour.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/complaints_colour.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dostel.managerapp1.app-pngs-13:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_rupee.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/rupee.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable_green_bg.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable/green_bg.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/layout_dues_list_item.xml.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/layout/dues_list_item.xml"
+    },
+    {
+        "merged": "com.dostel.managerapp1.app-merged_res-18:/drawable-v24_play.png.flat",
+        "source": "com.dostel.managerapp1.app-main-20:/drawable-v24/play.png"
+    }
+]

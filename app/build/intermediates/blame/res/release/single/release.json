@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_menulast.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/menulast.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_complaint.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/complaint.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_gradient.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/gradient.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_firebase_lockup_400.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/firebase_lockup_400.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_image_terms_of_service.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_hostel_bg.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/hostel_bg.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_image_pg_properties.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_image_pg_properties.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_four_cards.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_four_cards.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_che.jpeg.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/che.jpeg"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_image_terms_of_service.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_image_terms_of_service.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-mdpi_ic_image_other_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-mdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_hostel.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_hostel.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_graffiti.jpg.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/graffiti.jpg"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_image_pg_properties.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xhdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_tenant.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_tenant.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_image_pg_properties.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_image_pg_properties.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_chat_messages.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/chat_messages.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_notebook.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/notebook.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_pin.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_pin.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_login_hero.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_tenant.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_tenant.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_bed.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/bed.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_bed_colour.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/bed_colour.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_image_pg_properties.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-hdpi_ic_image_personal_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-hdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_menu.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_terms_of_service.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_terms_of_service.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_login_hero.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xhdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_other_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_other_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_calculations.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_calculations.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-ldpi_ic_image_personal_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-ldpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_image_personal_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xhdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-mdpi_ic_image_personal_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-mdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_dish.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_dish.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_escalator.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/escalator.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-hdpi_ic_login_hero.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-hdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_google_plus.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_google_plus.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_polygonhouse.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_polygonhouse.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_image_pg_properties.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_rupee.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/rupee.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_login_hero.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_login_hero.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-ldpi_ic_image_other_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-ldpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_image_terms_of_service.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_image_terms_of_service.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_add.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/add.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_room_list_item.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/room_list_item.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_pg_properties.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_pg_properties.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_share.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/share.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_menufinal.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_menufinal.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_back_button.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_back_button.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_roomfinal.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_roomfinal.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-hdpi_ic_image_pg_properties.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-hdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_fragment_four_cards_final.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/fragment_four_cards_final.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_pg_list_item.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/pg_list_item.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_image_personal_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_sad.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_image_personal_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_image_personal_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_location.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_location.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_pay.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/pay.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-mdpi_ic_image_terms_of_service.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-mdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_notebook.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/notebook.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_menu.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_menu.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_sad.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_sad.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_mail.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_mail.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_backbutton2.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_backbutton2.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-ldpi_ic_login_hero.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-ldpi/ic_login_hero.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_rent.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_rent.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_share.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_input_box.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/input_box.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_input_box_small.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/input_box_small.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_room.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_room.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_pin.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_pin.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-hdpi_ic_image_terms_of_service.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-hdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_image_personal_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_image_personal_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_multi_room.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_multi_room.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_image_other_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_menufinal.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_menufinal.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/anim_fadein.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_image_personal_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_image_personal_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_checkbackground.jpeg.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/checkbackground.jpeg"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_mail.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_rent.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_rent.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_rupee.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/rupee.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_button_background_blue.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/button_background_blue.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/anim_slide_in_bottom.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_image_other_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_image_other_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_pay.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/pay.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_select_pg.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/select_pg.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_bed_colour1.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/bed_colour1.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activtiy_register.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activtiy_register.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_image_terms_of_service.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xhdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_che.jpeg.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/che.jpeg"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_facebook.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_facebook.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_room_type_popup.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/room_type_popup.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_firebase_lockup_400.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/firebase_lockup_400.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_backbutton2.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_backbutton2.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-ldpi_ic_image_terms_of_service.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-ldpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_home.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_checkbackground.jpeg.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/checkbackground.jpeg"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_floor_room_list_item.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/floor_room_list_item.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_bed_colour1.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/bed_colour1.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_edit.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/edit.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_button_background_blue.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/button_background_blue.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_image_other_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_image_other_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_left_arrow.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/left_arrow.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_green_add.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/green_add.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_personal_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_personal_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_calculations.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_calculations.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_side_bg.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_side_bg.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_back_button.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_back_button.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_complaint.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_complaint.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_image_terms_of_service.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_image_terms_of_service.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_dish.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_dish.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_input_box_small.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/input_box_small.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_menulast.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/menulast.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_roomfinal.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_roomfinal.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/anim_fadout.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/anim/fadout.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_back_img.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_back_img.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-mdpi_ic_login_hero.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-mdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/anim_slide_out_bottom.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_passbook.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_passbook.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_bed_colour.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/bed_colour.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_left_arrow.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/left_arrow.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-mdpi_ic_image_pg_properties.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-mdpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_image_other_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xhdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_facebook.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_share.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_share.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_gradient.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_chat_messages.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/chat_messages.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_passbook.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_passbook.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_green_add.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/green_add.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_back_img.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_back_img.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_bed.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/bed.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_complaint.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/complaint.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_cutlery.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/cutlery.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activity_pg_details.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activity_pg_details.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_add_single_room_popup.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/add_single_room_popup.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_hostel_bg.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/hostel_bg.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-ldpi_ic_image_pg_properties.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-ldpi/ic_image_pg_properties.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_input_box.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/input_box.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_escalator.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/escalator.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_location.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_location.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_rooms.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/rooms.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_share.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_login_hero.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_login_hero.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_google_plus.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_google_plus.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_hostel.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_hostel.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_image_other_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_white_back_arrow.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/white_back_arrow.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_polygonhouse.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_polygonhouse.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_cutlery.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/cutlery.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-hdpi_ic_image_other_details.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-hdpi/ic_image_other_details.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_white_back_arrow.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/white_back_arrow.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_add.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_home.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_home.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_side_bg.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_side_bg.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_edit.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/edit.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_rooms.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/rooms.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_login_hero.png.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_login_hero.png"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/layout_activtiy_phone_auth.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/layout/activtiy_phone_auth.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_graffiti.jpg.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/graffiti.jpg"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable-v24_ic_complaint.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable-v24/ic_complaint.xml"
+    },
+    {
+        "merged": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/build/intermediates/res/merged/release/drawable_ic_home.xml.flat",
+        "source": "/mnt/CAA088D1A088C583/Programming Stuff/Files/Android native projects/DostelManagerOld/app/src/main/res/drawable/ic_home.xml"
+    }
+]

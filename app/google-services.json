@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578375167219",
+    "project_id": "dostel-manager",
+    "storage_bucket": "dostel-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578375167219:android:af795e17a3319d79241b86",
+        "android_client_info": {
+          "package_name": "com.dostel.managerapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578375167219-mj56k3g9a63u8kdueuhcr7ihbadmnv3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhEQiN27LLSEOM2GSQ77M9j5iSn8MzUlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578375167219-mj56k3g9a63u8kdueuhcr7ihbadmnv3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:orientation="vertical"
+    android:id="@+id/main_layout"
+    android:background="@color/grey_100"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/mainLogo"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:contentDescription="@string/desc_firebase_lockup"
+            android:src="@drawable/ic_hostel" />
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:padding="5dp"
+            android:text="Welcome to Dostel"
+            android:textColor="#1ab1c5"
+            android:textStyle="bold"
+            android:theme="@style/ThemeOverlay.MyTitleText" />
+
+
+        <!--<TextView android:textSize="10sp"
+            android:layout_gravity="bottom|center_vertical|center_horizontal|center"
+            android:id="@+id/detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="25dp"
+            android:textAlignment="center"/>-->
+
+        <LinearLayout
+            android:id="@+id/phoneAuthFields"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            android:padding="5dp">
+
+            <EditText
+                android:id="@+id/fieldPhoneNumber"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:hint="+91XXXXXXXXXX"
+                android:layout_gravity="top"
+                android:alpha="1"
+                android:background="#FFFFFF"
+                android:inputType="phone"
+                android:maxLength="13" />
+
+
+            <EditText
+                android:id="@+id/fieldVerificationCode"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:hint="@string/hint_verification_code"
+                android:alpha="1"
+                android:layout_gravity="center_vertical"
+                android:background="#FFFFFF"
+                android:inputType="number" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <Button
+                    android:id="@+id/buttonStartVerification"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/button_horizontal_margin"
+                    android:layout_marginEnd="@dimen/button_horizontal_margin"
+                    android:layout_weight="1"
+                    android:backgroundTint="#ff9800"
+                    android:text="Send Code"
+                    android:textAlignment="center" />
+
+                <Button
+                    android:id="@+id/buttonVerifyPhone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/button_horizontal_margin"
+                    android:layout_marginEnd="@dimen/button_horizontal_margin"
+                    android:layout_weight="1"
+                    android:backgroundTint="#ff9800"
+                    android:text="Verify"
+                    android:textAlignment="center" />
+
+                <Button
+                    android:id="@+id/buttonResend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/button_horizontal_margin"
+                    android:layout_marginEnd="@dimen/button_horizontal_margin"
+                    android:layout_weight="1"
+                    android:backgroundTint="#ff9800"
+                    android:text="Resend"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

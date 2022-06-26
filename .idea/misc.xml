@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_add_dues.xml" value="0.35104166666666664" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_four_cards.xml" value="0.35104166666666664" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_home.xml" value="0.35104166666666664" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_multi_room.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_other_details.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_pass_book.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_personal_details.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_pg_details.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_pg_properties.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_room.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_tenant_complaint.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_tenant_log_in.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activity_terms_of_service.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activtiy_phone_auth.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/activtiy_register.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/add_single_room_popup.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/dues_list_item.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/fragment_four_cards_final.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/host_a_friend_popup.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/income_list_item.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/pg_list_item.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/room_list_item.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/room_type_popup.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/select_pg.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/tenant_add_success_popup.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/tenant_detail.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/tenant_document_upload_card_view.xml" value="0.3392210144927536" />
+        <entry key="..\:/DostelManagerOld/app/src/main/res/layout/tenant_personal_detail.xml" value="0.3392210144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

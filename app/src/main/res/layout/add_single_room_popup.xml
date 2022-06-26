@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="320dp"
+    android:layout_height="610dp"
+    android:layout_gravity="center"
+    android:layout_margin="0dp"
+    android:background="#0F8A7E"
+    android:orientation="vertical"
+    tools:context=".AddRoomActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="#FFFFFF"
+                app:cardCornerRadius="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="0dp">
+
+                    <TextView
+                        android:id="@+id/textView12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:paddingLeft="10dp"
+                        android:text="Add Room"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                        android:textColor="#151515"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:paddingTop="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingBottom="10dp">
+
+                            <ImageView
+                                android:id="@+id/imageView4"
+                                android:layout_width="40dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:src="@drawable/rooms" />
+
+                            <EditText
+                                android:id="@+id/edit_text_room_number"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp"
+                                android:ems="10"
+                                android:hint="Room No*"
+                                android:inputType="textPersonName"
+                                android:padding="5dp"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:textColor="#000000"
+                                android:textSize="20sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:paddingTop="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingBottom="10dp">
+
+                            <ImageView
+                                android:id="@+id/imageView8"
+                                android:layout_width="40dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:src="@drawable/escalator" />
+
+                            <EditText
+                                android:id="@+id/edit_text_floor"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp"
+                                android:ems="10"
+                                android:hint="Floor no*"
+                                android:inputType="textPersonName"
+                                android:padding="5dp"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:textColor="#000000"
+                                android:textSize="20sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:paddingTop="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingBottom="10dp">
+
+                            <ImageView
+                                android:id="@+id/imageView9"
+                                android:layout_width="40dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:src="@drawable/bed" />
+
+                            <EditText
+                                android:id="@+id/edit_text_beds"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp"
+                                android:ems="10"
+                                android:hint="No of beds*"
+                                android:inputType="textPersonName"
+                                android:padding="5dp"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:textColor="#000000"
+                                android:textSize="20sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:paddingTop="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingBottom="10dp">
+
+                            <ImageView
+                                android:id="@+id/imageView10"
+                                android:layout_width="40dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:src="@drawable/rupee" />
+
+                            <EditText
+                                android:id="@+id/edit_text_rent"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp"
+                                android:ems="10"
+                                android:hint="Room rent"
+                                android:inputType="textPersonName"
+                                android:padding="5dp"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:textColor="#000000"
+                                android:textSize="20sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:paddingTop="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingBottom="10dp">
+
+                            <ImageView
+                                android:id="@+id/imageView11"
+                                android:layout_width="40dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:src="@drawable/chat_messages" />
+
+                            <EditText
+                                android:id="@+id/edit_text_room_remark"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp"
+                                android:ems="10"
+                                android:hint="Room Remark"
+                                android:inputType="textPersonName"
+                                android:padding="5dp"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:textColor="#000000"
+                                android:textSize="20sp" />
+                        </LinearLayout>
+
+                        <!--<ImageView
+                            android:id="@+id/imageView10"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="10dp"
+                            app:srcCompat="@drawable/escalator" />
+
+                        <ImageView
+                            android:id="@+id/imageView13"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="13dp"
+                            app:srcCompat="@drawable/bed" />
+
+                        <ImageView
+                            android:id="@+id/imageView11"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="13dp"
+                            app:srcCompat="@drawable/rupee" />
+
+                        <ImageView
+                            android:id="@+id/imageView12"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="20dp"
+                            app:srcCompat="@drawable/chat_messages" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingTop="20dp"
+                        android:paddingRight="20dp">
+
+                        &lt;!&ndash;<EditText
+                            android:id="@+id/edit_text_room_number"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="Room No*"
+                            android:inputType="textPersonName"
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />&ndash;&gt;
+
+                        <EditText
+                            android:id="@+id/edit_text_floor"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="Floor*"
+                            android:inputType="textPersonName"
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                        <EditText
+                            android:id="@+id/edit_text_beds"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="Beds*"
+                            android:inputType="number"
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                        <EditText
+                            android:id="@+id/edit_text_rent"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="Rent Amount"
+                            android:inputType="number"
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+
+                        <EditText
+                            android:id="@+id/edit_text_room_remark"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="Room Remark"
+                            android:inputType="textPersonName"
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textColor="#000000"
+                            android:textSize="20sp" />
+                    </LinearLayout>-->
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="10dp"
+                        android:paddingTop="0dp"
+                        android:text="Facilities Provided"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                        android:textColor="#151515"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <CheckBox
+                            android:id="@+id/check_box_ac"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="AC"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/check_box_ventilation"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Ventilation"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <CheckBox
+                            android:id="@+id/check_box_washroom"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Washroom"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/check_box_large_room"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Large Room"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <CheckBox
+                            android:id="@+id/check_box__balcony"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Balcony"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/check_box_corner_room"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Corner Room"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button_cancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:backgroundTint="#FFFDFD"
+                    android:text="CANCEL"
+                    android:textAlignment="gravity"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                    android:textColor="#000000"
+                    android:textSize="24dp" />
+
+                <TextView
+                    android:id="@+id/text_view_add"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingLeft="18dp"
+                    android:paddingTop="10dp"
+                    android:paddingRight="18dp"
+                    android:paddingBottom="10dp"
+                    android:text="ADD"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                    android:textColor="#FFFFFF"
+                    android:textSize="26sp"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

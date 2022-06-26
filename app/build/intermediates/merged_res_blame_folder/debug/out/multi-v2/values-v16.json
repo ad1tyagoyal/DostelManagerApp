@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dostel.managerapp1.app-mergeDebugResources-16:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-3\\c3317bbcf1a1c239cda5cb48a9328d02\\transformed\\core-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-3\\529e797493c89b9dbdf43262700e532f\\transformed\\appcompat-1.0.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
