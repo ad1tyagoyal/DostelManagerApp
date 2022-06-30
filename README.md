@@ -1,6 +1,5 @@
 # DostelManagerApp
 App for PG managers to handle the operations such as rent collection, room booking, generating rent receipt 
-![Capture](https://user-images.githubusercontent.com/56722344/175829634-832010e3-be1f-446a-af12-ccdf586f694a.PNG)
 ![2](https://user-images.githubusercontent.com/56722344/175829637-858d50c1-8ce2-4b4c-b2ff-6db72fc6391d.PNG)
 ![6](https://user-images.githubusercontent.com/56722344/175829639-c2626b76-ca99-4103-98b4-0288963ca780.PNG)
 ![7](https://user-images.githubusercontent.com/56722344/175829640-4cb315a1-6d2b-4cf0-b6ab-d2d9aa24d01b.PNG)
